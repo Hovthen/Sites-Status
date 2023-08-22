@@ -1,6 +1,6 @@
 # Sites-Status - 网站状态
 
-一个基于 UptimeRobot API 的在线状态面板。由 @imsyy 基于 [uptime-status](https://github.com/yb/uptime-status) 项目修改而来。
+一个基于 [UptimeRobot](https://uptimerobot.com/) API 的在线状态面板。由 [@imsyy](https://github.com/imsyy/site-status) 基于 [uptime-status](https://github.com/yb/uptime-status) 项目修改而来。
 
 ## 特色
 
